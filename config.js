@@ -1,2 +1,2 @@
-console.log('version 1')
-console.log('version i  with out updated')
+console.log('version 2')
+console.log('version i  with updated')
